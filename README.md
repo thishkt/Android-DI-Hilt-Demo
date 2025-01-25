@@ -1,6 +1,9 @@
 # Android-DI-Hilt-Demo
 這是一個展示如何在 Android 開發中使用 Hilt 進行依賴注入的範例專案。本專案採用現代 Android 開發技術和最佳實踐，展示了一個簡單的用戶管理應用。
 
+## UI 畫面
+![](./img/Screenshot.png)
+
 ## 技術架構
 - **開發語言**: Kotlin
 - **UI 框架**: Jetpack Compose
